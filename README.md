@@ -1,3 +1,4 @@
 # Driver-Analysis
-To know what drives purchase
+We want to know what drives the likelihood of purchase. 
+
 
